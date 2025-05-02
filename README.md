@@ -146,5 +146,7 @@ Here are some ideas to get you started:
 - 📧 Email: susannadontha@gmail.com
 
 ---
+![Susanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanna995&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susanna995&layout=compact&theme=radical)
 
 > *“Stay curious. Keep building. Let your code speak louder than words.”*
