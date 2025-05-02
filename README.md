@@ -26,7 +26,30 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JavaScript, Python, React, Flask, Node.js, etc.**  
 - 🔭 I’m currently working on an **AI Story Generator Web App**  
 - 🤝 I’m looking to collaborate on **Open Source & Hackathons**  
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **your.email@example.com*
+## 🚀 Featured Projects
+
+### 🌀 SpinDecision | React, JavaScript, CSS  
+*A fun and dynamic web app for decision-making using a spinning wheel*  
+- Lets users add custom options and make random decisions with engaging animations and sounds  
+- Perfect for raffles, games, or breaking indecision
+
+### 🔎 Transformer for Time Series Anomaly Detection | React, Python  
+*Detecting and replacing anomalies in time-series data using transformer models*  
+- Used transformers to understand context and correct irregularities in data  
+- Compared techniques like interpolation for anomaly handling and correction  
+
+### 🧠 StoryNexus – AI Story Generator | React, Flask, LangChain, gemma:2b, NLP  
+*An AI-powered story generator that mimics author styles using LLMs*  
+- Accepts prompts or PDFs and generates stories in a specified author's voice  
+- Utilizes LangChain and local LLMs (Gemma:2b, Ollama)  
+- Stylometric analysis ensures consistency in tone and style
+
+### 🧬 ThyroLead – Early Thyroid Detection | Flask, MongoDB, Random Forest  
+*Healthcare web platform for thyroid disease detection and consultation*  
+- Built with Flask backend and Random Forest ML model  
+- Integrated MongoDB and location-based hospital suggestions  
+- Real-time feedback with a clean UI built in HTML, CSS, JS*
 
 ---
 
@@ -70,27 +93,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 🌀 SpinDecision | React, JavaScript, CSS  
-*A fun and dynamic web app for decision-making using a spinning wheel*  
-- Lets users add custom options and make random decisions with engaging animations and sounds  
-- Perfect for raffles, games, or breaking indecision
-
-### 🔎 Transformer for Time Series Anomaly Detection | React, Python  
-*Detecting and replacing anomalies in time-series data using transformer models*  
-- Used transformers to understand context and correct irregularities in data  
-- Compared techniques like interpolation for anomaly handling and correction  
-
-### 🧠 StoryNexus – AI Story Generator | React, Flask, LangChain, gemma:2b, NLP  
-*An AI-powered story generator that mimics author styles using LLMs*  
-- Accepts prompts or PDFs and generates stories in a specified author's voice  
-- Utilizes LangChain and local LLMs (Gemma:2b, Ollama)  
-- Stylometric analysis ensures consistency in tone and style
-
-### 🧬 ThyroLead – Early Thyroid Detection | Flask, MongoDB, Random Forest  
-*Healthcare web platform for thyroid disease detection and consultation*  
-- Built with Flask backend and Random Forest ML model  
-- Integrated MongoDB and location-based hospital suggestions  
-- Real-time feedback with a clean UI built in HTML, CSS, JS
+- 🔎 **Transformer for Time Series Anomaly Detection** – Detects and replaces anomalies in time-series data using transformer models.
+- 🧠 **StoryNexus – AI Story Generator** – Generates stories in a specified author's style using LangChain and local LLMs (Gemma:2b, Ollama).
+- 🧬 **ThyroLead – Early Thyroid Detection** – A healthcare platform for thyroid disease detection with real-time feedback and MongoDB integration.
+- 🌀 **SpinDecision** – A web app for decision-making using a customizable spinning wheel with engaging animations and sounds.
 
 ---
 
