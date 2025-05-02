@@ -95,8 +95,6 @@ Here are some ideas to get you started:
 
 - 🔎 **Transformer for Time Series Anomaly Detection** – Detects and replaces anomalies in time-series data using transformer models.
 - 🧠 **StoryNexus – AI Story Generator** – Generates stories in a specified author's style using LangChain and local LLMs (Gemma:2b, Ollama).
-- 🔎 [Transformer for Time Series Anomaly Detection](https://github.com/susanna995/your-project-name)
-
 - 🧬 **ThyroLead – Early Thyroid Detection** – A healthcare platform for thyroid disease detection with real-time feedback and MongoDB integration.
 - 🌀 **SpinDecision** – A web app for decision-making using a customizable spinning wheel with engaging animations and sounds.
 
@@ -148,6 +146,7 @@ Here are some ideas to get you started:
 - 📧 Email: susannadontha@gmail.com
 
 ---
+##📊 GitHub Stats:
 ![Susanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanna995&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susanna995&layout=compact&theme=radical)
 
