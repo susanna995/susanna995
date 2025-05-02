@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/susanna-dontha/)  
-- 📧 Email: susannadontha@.com
+- 📧 Email: susannadontha@gmail.com
 
 ---
 
