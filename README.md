@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">🚀 Aspiring Developer | Tech Enthusiast | Open Source Lover</h3>
 
@@ -61,3 +61,56 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="20" width="20" /></a>
 </p>
+-->
+# 👋 Hi there, I'm Susanna Dontha!
+
+🎓 I'am a Computer Science student at **Keshav Memorial Engineering College**  
+💡 Passionate about **Web Development**, **Machine Learning**, and **Generative AI**, with a focus on building intelligent, user-centric applications  
+🌐 Turning ideas into interactive and impactful software
+
+---
+
+## 🚀 Featured Projects
+
+### 🌀 SpinDecision | React, JavaScript, CSS  
+*A fun and dynamic web app for decision-making using a spinning wheel*  
+- Lets users add custom options and make random decisions with engaging animations and sounds  
+- Perfect for raffles, games, or breaking indecision
+
+### 🔎 Transformer for Time Series Anomaly Detection | React, Python  
+*Detecting and replacing anomalies in time-series data using transformer models*  
+- Used transformers to understand context and correct irregularities in data  
+- Compared techniques like interpolation for anomaly handling and correction  
+
+### 🧠 StoryNexus – AI Story Generator | React, Flask, LangChain, gemma:2b, NLP  
+*An AI-powered story generator that mimics author styles using LLMs*  
+- Accepts prompts or PDFs and generates stories in a specified author's voice  
+- Utilizes LangChain and local LLMs (Gemma:2b, Ollama)  
+- Stylometric analysis ensures consistency in tone and style
+
+### 🧬 ThyroLead – Early Thyroid Detection | Flask, MongoDB, Random Forest  
+*Healthcare web platform for thyroid disease detection and consultation*  
+- Built with Flask backend and Random Forest ML model  
+- Integrated MongoDB and location-based hospital suggestions  
+- Real-time feedback with a clean UI built in HTML, CSS, JS
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,python,flask,html,css,mongodb,git,jupyter,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,c,linux" />
+</p>
+
+---
+
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/susanna-dontha/)  
+- 📧 Email: susannadontha@.com
+
+---
+
+> *“Stay curious. Keep building. Let your code speak louder than words.”*
