@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **susanna995/susanna995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
